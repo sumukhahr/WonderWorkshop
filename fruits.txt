@@ -1,3 +1,5 @@
+apple 5
 orange 10
-apple 6
+pineapple 2
+apple 1
 strawberry 3
