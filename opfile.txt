@@ -1,3 +1,0 @@
-orange 10
-strawberry 3
-pineapple 2
